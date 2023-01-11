@@ -1,6 +1,5 @@
-### Hi there 👋
 
-### Hi there, I'm Gavin👦,
+### Hi there, I'm Gavin,
 A Full Stack Developer🎯 from Ireland.
 
 - 👨‍💻 Full Stack MERN Developer
