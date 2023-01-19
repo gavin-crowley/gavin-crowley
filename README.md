@@ -23,7 +23,7 @@ A Developer from Ireland.
 <a href="https://www.linkedin.com/in/gavin-crowley/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gavin%20Crowley-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
-<!--  ⭐️ [My Portfolio Website](https://gavin-crowley.com/index.html) -->
+ ⭐️ [My Portfolio Website](https://gavin-crowley.com/index.html)
 
 
 <!-- ![Gavin's github stats](https://github-readme-stats.vercel.app/api?username=gavin-crowley&theme=tokyonight&show_icons=true&hide=["issues"]) -->
