@@ -2,12 +2,6 @@
 ### Hi there, I'm Gavin,
 A Developer from Ireland.
 
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="left">
-<a href="mailto:gavincrowley@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gavincrowley@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/gavin-crowley/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gavin%20Crowley-blue?style=flat-square&logo=linkedin"></a>
-</p>
 
 **Languages:**  
 
@@ -21,6 +15,13 @@ A Developer from Ireland.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="left">
+<a href="mailto:gavincrowley@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gavincrowley@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/gavin-crowley/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gavin%20Crowley-blue?style=flat-square&logo=linkedin"></a>
+</p>
 
 <!-- ![Gavin's github stats](https://github-readme-stats.vercel.app/api?username=gavin-crowley&theme=tokyonight&show_icons=true&hide=["issues"]) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gavin-crowley&theme=tokyonight&layout=compact) -->
