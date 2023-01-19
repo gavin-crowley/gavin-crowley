@@ -20,8 +20,11 @@ A Developer from Ireland.
 
 <p align="left">
 <a href="mailto:gavincrowley@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gavincrowley@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/gavin-crowley/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gavin%20Crowley-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/gavin-crowley/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gavin%20Crowley-blue?style=flat-square&logo=linkedin"></a>
 </p>
+
+<!--  ⭐️ [My Portfolio Website](https://gavin-crowley.com/index.html) -->
+
 
 <!-- ![Gavin's github stats](https://github-readme-stats.vercel.app/api?username=gavin-crowley&theme=tokyonight&show_icons=true&hide=["issues"]) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gavin-crowley&theme=tokyonight&layout=compact) -->
