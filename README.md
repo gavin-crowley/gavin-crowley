@@ -4,11 +4,9 @@ A Developer from Ireland.
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
- <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
-<a href="https://www.linkedin.com/in/gavin-crowley/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gavin%20Crowley-blue?style=flat-square&logo=linkedin"></a>
-<!-- <a href="https://www.twitter.com/gavin-crowley"><img alt="Twitter" src="https://img.shields.io/badge/Instagram-piyush.vo-blue?style=flat-square&logo=instagram"></a> -->
+<p align="left">
 <a href="mailto:gavincrowley@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gavincrowley@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/gavin-crowley/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gavin%20Crowley-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
 **Languages:**  
