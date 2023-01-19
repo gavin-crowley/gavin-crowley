@@ -2,7 +2,14 @@
 ### Hi there, I'm Gavin,
 A Developer from Ireland.
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gavin-crowley/)
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+ <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
+<a href="https://www.linkedin.com/in/gavin-crowley/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gavin%20Crowley-blue?style=flat-square&logo=linkedin"></a>
+<!-- <a href="https://www.twitter.com/gavin-crowley"><img alt="Twitter" src="https://img.shields.io/badge/Instagram-piyush.vo-blue?style=flat-square&logo=instagram"></a> -->
+<a href="mailto:gavincrowley@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gavincrowley@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
 
 **Languages:**  
 
@@ -22,14 +29,9 @@ A Developer from Ireland.
 
 <!-- ![](https://komarev.com/ghpvc/?username=gavin-crowley) -->
 
-<h3> 🤝🏻 Connect with Me </h3>
+<!-- - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gavin-crowley/) -->
 
-<p align="center">
- <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
-<a href="https://www.linkedin.com/in/gavin-crowley/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gavin%20Crowley-blue?style=flat-square&logo=linkedin"></a>
-<!-- <a href="https://www.twitter.com/gavin-crowley"><img alt="Twitter" src="https://img.shields.io/badge/Instagram-piyush.vo-blue?style=flat-square&logo=instagram"></a> -->
-<a href="mailto:gavincrowley@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gavincrowley@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+
 
 <!--  ⭐️ From [Gavin Crowley](https://github.com/gavin-crowley) -->
 
