@@ -1,6 +1,6 @@
 
 ### Hi there, I'm Gavin,
-A Developer from Ireland.
+A Data Engineer, Analyst and Developer from Ireland.
 
 
 **Languages:**  
